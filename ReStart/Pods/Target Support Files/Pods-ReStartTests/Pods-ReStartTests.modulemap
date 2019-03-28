@@ -1,0 +1,6 @@
+framework module Pods_ReStartTests {
+  umbrella header "Pods-ReStartTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

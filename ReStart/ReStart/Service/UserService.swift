@@ -7,10 +7,15 @@
 //
 
 import Foundation
+import Alamofire
+import SwiftyJSON
+
 
 class UserService {
     
     static let instance = UserService()
+    
+    
     
     
     
